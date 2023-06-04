@@ -52,7 +52,7 @@ printf("hello world");
 
 누가 만들었는지
 
-Git. [@JunMoKang](https://github.com/moaoh)  
+Git. [@junmokang](https://github.com/moaoh)  
 
 <!--
 	프로젝트 제목
